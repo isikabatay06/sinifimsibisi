@@ -1,0 +1,2 @@
+# sinifimsibisi
+Okulda yaptıgımız kodlar.
